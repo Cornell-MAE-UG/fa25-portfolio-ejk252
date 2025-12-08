@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: <Ethan Jihwan Kim> - Portfolio
 permalink: /projects/
 ---
 
