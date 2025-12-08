@@ -36,7 +36,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **[Cogeneration Group]**:  
+- **Cogeneration Group**:  
   *[Short Description]*  
   - Chassis Modifications (Glass Holder, Insulation)
   - Aerogel Fabrication
