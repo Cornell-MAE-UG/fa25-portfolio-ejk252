@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Sattelite Pointing
+title: Satellite Pointing
 description: MAE 3260 Final Group Work
 technologies: [MATLAB]
-image: /assets/images/function-graph.png
+image: /assets/images/satellite.jpeg
 ---
 
 
