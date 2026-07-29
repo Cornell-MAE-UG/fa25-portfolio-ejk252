@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.7/4.0 | Graduation: May, 2027
+  GPA: 3.65/4.0 | Graduation: May, 2027
 
 - **[Jericho Senior High School]**  
   *High School Diploma*  
